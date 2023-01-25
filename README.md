@@ -3,6 +3,8 @@
 The project is part of the "Create a Back-End App with JavaScript" skill path on Codecademy website.
 https://www.codecademy.com/learn/paths/create-a-back-end-app-with-javascript
 
+Link to the project: https://mariechanaron.github.io/rock-paper-scissors-x99/
+
 ## Project Overview
 
 In this project, you will build all of the logic needed for a more intense version of
